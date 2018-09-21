@@ -1,5 +1,5 @@
 ## overview ##
-cnn 구현
+학교 종합프로젝트 CNN 구현
 
 ## data ##
 Cifar10
