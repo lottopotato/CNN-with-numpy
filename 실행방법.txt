@@ -1,0 +1,15 @@
+실행방법
+
+cnn.py cifar : 이전에 학습한 가중치를 사용해 cifar10 데이터를 
+		1회 학습합니다. 소요시간은 약 7~8분 입니다.
+
+cnn.py mydata : 이전에 학습한 가중치를 사용해 mydata 데이터를
+		 1회 학습합니다. 소요시간은 약 4초 입니다.
+
+cnn.py dog_cat : 이전에 학습한 가중치를 사용해 dog vs cat 데이터를
+		 1회 학습합니다. 소요시간은 약 3~4분 입니다.
+
+cnn.py setting : 데이터와 각종 설정을 재설정하고 학습합니다.
+
+
+전체 코드 루트 : C:\Users\khh\Documents\머신러닝\myProject
